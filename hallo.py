@@ -1,4 +1,4 @@
 a = [3,4,5,6]
 
 for getal in a:
-    print(getal+3)
+    print(getal+5)
